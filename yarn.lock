@@ -160,9 +160,10 @@ dasherize@2.0.0:
   version "2.0.0"
   resolved "https://registry.yarnpkg.com/dasherize/-/dasherize-2.0.0.tgz#6d809c9cd0cf7bb8952d80fc84fa13d47ddb1308"
 
-dateformat@^3.0.3:
-  version "3.0.3"
-  resolved "https://registry.yarnpkg.com/dateformat/-/dateformat-3.0.3.tgz#a6e37499a4d9a9cf85ef5872044d62901c9889ae"
+dateformat@^4.0.0:
+  version "4.0.0"
+  resolved "https://registry.yarnpkg.com/dateformat/-/dateformat-4.0.0.tgz#e2eaf8eaf384f0dcf834870c1b8c1b1bccca4539"
+  integrity sha512-zpKyDYpeePyYGJp2HhRxLHlA+jZQNjt+MwmcVmLxCIECeC4Ks3TI3yk/CSMKylbnCJ5htonfOugYtRRTpyoHow==
 
 debug@2.6.9:
   version "2.6.9"
